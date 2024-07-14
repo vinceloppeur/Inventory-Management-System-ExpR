@@ -24,6 +24,14 @@ This repository is simply named as is with a little addition to the end of the n
 - **Express (Backend Framework)**
 - **React (Frontend Library)**
 
+<div style="display:flex;gap:0.5rem;justify-content:center">
+  <img src="https://img.icons8.com/?size=50&id=JRnxU7ZWP4mi&format=png&color=000000">
+  <img src="https://img.icons8.com/?size=50&id=kg46nzoJrmTR&format=png&color=000000">
+  <img src="https://img.icons8.com/?size=50&id=54087&format=png&color=000000">
+  <img src="https://img.icons8.com/?size=50&id=uJM6fQYqDaZK&format=png&color=000000">
+  <img src="https://img.icons8.com/?size=50&id=asWSSTBrDlTW&format=png&color=000000">
+</div>
+
 ### Features
 
 - **Authentication & Authorization**
