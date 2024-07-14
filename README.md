@@ -4,7 +4,17 @@ A [web-based inventory management system application](https://en.wikipedia.org/w
 
 With its primary aim and focus to be as practical and as functional as possible with as little complexity as possible that might decrease the productivity. Providing a way for business owners to quickly and easily manage, access, and control their business inventory and sales.
 
+## Contents
+
+ - [Inventory-Management-System-ExpR](#inventory-management-system-expr)
+ - [About Project](#about-project)
+    - [Stack Used](#stack-used)
+    - [Features](#features)
+
+
 ## About Project
+
+This repository is simply named as is with a little addition to the end of the name - _ExpR_ is basically just denoting that the project mainly uses **Express** and **React** as the front and back end stack of the project.
 
 ### Stack Used
 
