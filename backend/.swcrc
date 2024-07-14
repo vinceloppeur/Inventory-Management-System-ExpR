@@ -1,0 +1,21 @@
+{
+	"$schema": "https://swc.rs/schema.json",
+	"jsc": {
+		"parser": {
+			"syntax": "typescript",
+			"dynamicImport": true,
+			"privateMethod": true,
+			"topLevelAwait": true,
+			"importMeta": true,
+			"exportDefaultFrom": true
+		},
+		"target": "es2020"
+	},
+	"module": {
+		"type": "nodenext",
+		"strict": true,
+		"strictMode": true
+	},
+	"sourceMaps": true,
+	"inlineSourcesContent": true
+}
